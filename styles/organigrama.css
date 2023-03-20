@@ -1,0 +1,107 @@
+.etiqueta{
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  
+}
+#puesto{
+  width: 23%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border-style: solid;
+  border-width: 1px;   
+  
+}
+
+#marco{
+  height:6vw;
+  filter: brightness(1.1);
+ margin: 1vw;
+}
+
+#marcoH{
+  background-color: #2fa4e7;
+  height: 3vw;
+  color:white;
+   display: block;
+   align-items: center;
+   position: relative;
+}
+
+#marcoH spam,#marcoH p{
+  font-size: 0.6em;
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  left: 32%;
+  margin: -15px 0 0 -42px;
+}
+#gerencias{
+  width: 20%;
+  text-align: center;
+}
+#e{
+  
+  background-color: #2fa4e7;
+  font-size: 1.7vh;
+  font-weight: bold;
+  color:white;
+    
+}
+#_sub{
+  
+  background-color: #2fa4e7;
+  font-size: 0.7em;
+  font-weight: bold;
+  color:white;
+    
+}
+#consejo{
+  width:35%;
+  margin: auto;
+  border-style: solid;
+  border-width: 1px;
+}
+#direc{
+  width:32%;
+  margin: auto;
+  border-style: solid;
+  border-width: 1px;
+}
+
+#sub{
+  width:28%;
+  margin: auto;
+  border-style: solid;
+  border-width: 1px;
+}
+#tronco{
+  text-align: center;
+  
+}
+#cuerpoSOSA{
+  width: 65%;
+  
+}
+#Info{
+  width: 18%;
+}
+#cargos{
+  width: 33%;
+}
+
+#personal p,#personal spam{
+  font-size: 0.7em;
+}
+#mas{
+  width: 15%;
+}
+#areass{
+  margin: auto;
+}
+#g{
+  border-style:none;
+}

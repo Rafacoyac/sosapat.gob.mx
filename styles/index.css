@@ -1,0 +1,89 @@
+
+body{
+    background-color: #110361;
+}
+.logos { 
+    width: 60%; 
+     text-align: center;
+    /*float: left; */
+    margin:10% auto ;
+    
+}
+.logos h1{
+    background-color: #cdd47ce3; 
+    bottom: auto;
+}
+.logos img{
+    max-width: 35%;
+    background-color: #deeebcad;
+    border-radius:8px;
+    margin: 0 auto 1%;
+  }
+  .logos h1{ 
+    text-align: center; 
+    padding: 0.5em; color: olive; 
+    font-size: 1.6em; 
+    border-radius:10px;
+}
+section h2{ 
+    text-align: center; 
+    padding: 0.5em; 
+    color: grey; 
+    font-size: 1.2em; 
+}
+section h3{ 
+    text-align: left; 
+    padding: 0.3em 3em; 
+    color: #663366; 
+    font-size: 1em;  
+}
+p{
+    color: #bbf51d;
+}
+.fondo{
+    width: 85%;
+}
+.fondo2{
+    margin:-1% auto 5%; 
+}
+.img{
+    margin:0 auto ;
+    border-radius:5px;
+    /*border: 1px solid #999;*/
+    padding:2px;
+ 
+    background-size: 100% 100%;
+    
+    background-image:url(https://pbs.twimg.com/media/DL40q8jVoAAR2gq?format=jpg&name=medium);
+   background-repeat:no-repeat;
+   background-size: cover;
+
+    }
+  .img img{
+    width: 85%;
+  }
+ 
+  @media all and (min-width: 500px) and (max-width: 1000px)
+  {  
+  .img{
+    margin:20px auto;
+    border-radius:5px;
+    border: 1px solid #999;
+    padding:2px;
+    width:300px;
+    height:300px;
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+    background:url(../../Images/plaza-principal.jpg);
+    background-size: cover;
+    
+    }
+  }
+  .img img{
+    width: 85%;
+  
+  }
+
+   li{
+    color: #b5df44;
+  }
